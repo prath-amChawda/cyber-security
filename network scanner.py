@@ -3,7 +3,6 @@ import socket
 import os
 
 def scan_network(ip_range):
-    # Perform ARP scan to find active devices in the network
     arp_request = scapy.ARP(pdst=ip_range)
     broadcast = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")
     arp_request_broadcast = broadcast / arp_request
