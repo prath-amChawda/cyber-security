@@ -56,6 +56,6 @@ Here are a few highlights from my cybersecurity journey:
 
 ---
 
-> “Cybersecurity is much more than a matter of IT.” – Stephane Nappo
+> “Cybersecurity is much more than a matter of IT.”
 
-Thanks for visiting! Don’t forget to ⭐ your favorite repositories!
+Thanks for visiting!
