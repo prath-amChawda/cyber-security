@@ -40,7 +40,7 @@ Here are a few highlights from my cybersecurity journey:
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn]https://www.linkedin.com/in/pratham-chawda-54853527a
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-chawda-54853527a)
 - 📫 Email: chawdapratham31@gmail.com 
 - 🌐 Portfolio: Coming Soon!
 
