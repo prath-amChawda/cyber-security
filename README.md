@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity**, **Ethical 
   - Reverse Engineering (beginner level)
 - 🧰 Tools I work with: Burp Suite, Wireshark, Nmap, Metasploit, Nessus, Kali Linux, etc.
 - 🧑‍🎓 Pursuing a deep understanding of both offensive and defensive security techniques.
-- 🏆 Participated in various National & International Hackathons and CTFs.
-- 📜 Red Hat Certified | Other certifications in progress.
+- 🏆 Participated in various National Hackathons and CTFs.
 
 ---
 
